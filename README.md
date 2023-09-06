@@ -245,7 +245,8 @@ Please read the [contributing guide](CONTRIBUTING.md).
 ## Contributors
 
 This project exists thanks to all the people who contribute.
-<a href="https://github.com/casbin/casbin/graphs/contributors"><img src="https://opencollective.com/casbin/contributors.svg?width=890&button=false" /></a>
+
+<a href="https://github.com/casbin/casbin/graphs/contributors"><img src="https://opencollective.com/casbin/contributors.svg?width=890&button=false"></a>
 
 ## Backers
 
